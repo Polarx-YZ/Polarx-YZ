@@ -1,4 +1,4 @@
-Making Teto Bot
+Developing an Egg that will rule the world
 
 <!---
 Polarx-YZ/Polarx-YZ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
