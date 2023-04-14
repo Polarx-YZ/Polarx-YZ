@@ -1,4 +1,8 @@
-Developing an Egg that will rule the world
+Call me Rin or whatever
+
+Currently working on:
+- an egg
+- zomvie game 2
 
 <!---
 Polarx-YZ/Polarx-YZ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
