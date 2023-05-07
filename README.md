@@ -4,7 +4,7 @@ Call me Rin or whatever
 - an egg
 - zomvie game 2 (tentative title)
 
-<details open>
+<details>
 <summary> Programming Languages </summary>
 <ul><li> Javascript </li>
 <li> Python </li></ul>
