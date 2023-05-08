@@ -3,6 +3,7 @@ Call me Rin or whatever
 ### Currently working on:
 - an egg
 - zomvie game 2 (tentative title)
+- simple youtube video downloader
 
 <details>
 <summary> Programming Languages </summary>
