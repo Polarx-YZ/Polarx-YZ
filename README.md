@@ -1,4 +1,6 @@
-Call me Rin or whatever
+# About Me
+Call me Rin or whatever <br>
+Idk wtf i'm doing
 
 ### Currently working on:
 - an egg
@@ -6,9 +8,12 @@ Call me Rin or whatever
 - simple youtube video downloader
 
 <details>
-<summary> Programming Languages </summary>
-<ul><li> Javascript </li>
-<li> Python </li></ul>
+	<summary> Programming Languages </summary>
+	<ul>
+		<li> Scratch </li>
+		<li> Javascript </li>
+		<li> Python </li>
+	</ul>
 </details>
 
 ---
