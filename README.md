@@ -5,7 +5,7 @@ Idk wtf i'm doing
 ### Currently working on:
 - an egg
 - zomvie game 2 (tentative title)
-- simple youtube video downloader
+- [simple youtube video downloader](https://github.com/Polarx-YZ/Easy-Youtube-Downloader)
 
 <details>
 	<summary> Programming Languages </summary>
