@@ -7,12 +7,17 @@ Idk wtf i'm doing
 - zomvie game 2 (tentative title)
 - [simple youtube video downloader](https://github.com/Polarx-YZ/Easy-Youtube-Downloader)
 
-<details>
-	<summary> Programming Languages </summary>
+<details> <summary> Experience </summary>
+	<h3> Languages </h3>
 	<ul>
 		<li> Scratch </li>
 		<li> Javascript </li>
 		<li> Python </li>
+	</ul>
+	<h3> Courses </h3>
+	<ul>
+		<li> Project Lead the Way: Intro to Engineering and Design (2021-2022) </li>
+		<li> Project Lead the Way: Principles of Engineering (2022-2023) </li>
 	</ul>
 </details>
 
