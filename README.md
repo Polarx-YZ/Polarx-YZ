@@ -8,20 +8,36 @@ Idk wtf i'm doing
 - [simple youtube video downloader](https://github.com/Polarx-YZ/Easy-Youtube-Downloader)
 
 <details> <summary> Experience </summary>
-	<h3> Languages </h3>
-	<ul>
-		<li> Scratch </li>
-		<li> Javascript </li>
-		<li> Python </li>
+	<h2> Languages </h2>
 		<ul>
-			<li> GDScript </li>
+			<li> Scratch </li>
+			<li> Javascript </li>
+			<li> Python </li>
+			<ul>
+				<li> GDScript </li>
+			</ul>
 		</ul>
-	</ul>
-	<h3> Courses </h3>
-	<ul>
-		<li> Project Lead the Way: Intro to Engineering and Design (2021-2022) </li>
-		<li> Project Lead the Way: Principles of Engineering (2022-2023) </li>
-	</ul>
+	<h2> Courses </h2>
+		<ul>
+			<li> Project Lead the Way: Intro to Engineering and Design (2021-2022) </li>
+			<li> Project Lead the Way: Principles of Engineering (2022-2023) </li>
+		</ul>
+	<h2> Projects </h2>
+		<h3> Discord Bots </h3>
+			<h4> Teto Bot / Koharu Chirin </h4>
+				Language: Node.js
+				<ul>
+					<li> Play music in voice channels  </li>
+					<li> Utilizes many API's </li>
+					<li> Banned word censorship  </li>
+				</ul>
+			<h4> EggAI </h4>
+				Language: Python
+				AI Bot trained on Discord conversations
+				<ul>
+					<li> Made with Tensorflow </li>
+					<li> Can connect to a voice channel and speak </li>
+				</ul>
 </details>
 
 ---
