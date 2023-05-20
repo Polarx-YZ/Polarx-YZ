@@ -13,6 +13,9 @@ Idk wtf i'm doing
 		<li> Scratch </li>
 		<li> Javascript </li>
 		<li> Python </li>
+		<ul>
+			<li> GDScript </li>
+		</ul>
 	</ul>
 	<h3> Courses </h3>
 	<ul>
