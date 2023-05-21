@@ -12,6 +12,9 @@ Idk wtf i'm doing
 		<ul>
 			<li> Scratch </li>
 			<li> Javascript </li>
+			<ul>
+				<li> Node.js </li>
+			</ul>
 			<li> Python </li>
 			<ul>
 				<li> GDScript </li>
