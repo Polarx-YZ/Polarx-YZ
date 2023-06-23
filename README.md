@@ -4,7 +4,7 @@ Idk wtf i'm doing
 
 ### Currently working on:
 - an egg
-- zomvie game 2 (tentative title)
+- Shadows of Desolation
 - [simple youtube video downloader](https://github.com/Polarx-YZ/Easy-Youtube-Downloader)
 
 <details> <summary> Experience </summary>
