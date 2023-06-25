@@ -3,7 +3,6 @@ Call me Rin or whatever <br>
 Idk wtf i'm doing
 
 ### Currently working on:
-- an egg
 - Shadows of Desolation
 - [simple youtube video downloader](https://github.com/Polarx-YZ/Easy-Youtube-Downloader)
 
