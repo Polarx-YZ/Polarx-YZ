@@ -4,7 +4,6 @@ Idk wtf i'm doing
 
 ### Currently working on:
 - Shadows of Desolation
-- [simple youtube video downloader](https://github.com/Polarx-YZ/Easy-Youtube-Downloader)
 
 <details> <summary> Experience </summary>
 	<h2> Languages </h2>
