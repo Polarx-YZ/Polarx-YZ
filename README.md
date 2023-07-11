@@ -22,6 +22,7 @@ Idk wtf i'm doing
 		<ul>
 			<li> Project Lead the Way: Intro to Engineering and Design (2021-2022) </li>
 			<li> Project Lead the Way: Principles of Engineering (2022-2023) </li>
+			<li> AP Computer Science A (2023-2024) </li>
 		</ul>
 	<h2> Projects </h2>
 		<h3> Discord Bots </h3>
