@@ -3,7 +3,7 @@ Call me Rin or whatever <br>
 Idk wtf i'm doing
 
 ### Currently working on:
-- Shadows of Desolation
+- Zili Discord Bot
 
 <details> <summary> Experience </summary>
 	<h2> Languages </h2>
